@@ -1,3 +1,5 @@
+https://docs.chaicode.com/getting-started-with-django/
+
 python -m venv .venv
 UV extremely fast package manager
 process1:  powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex" --working
